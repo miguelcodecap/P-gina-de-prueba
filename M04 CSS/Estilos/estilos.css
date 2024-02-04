@@ -96,7 +96,7 @@ header {
     color: white; /* Color del texto */
     padding: 10px 20px; /* Espaciado interior */
     text-decoration: none; /* Remueve subrayado de enlaces */
-    border: 2px solid rgb(238, 241, 2); /* Sin bordes (si es un botón) */: 2px;
+    border: 2px solid rgb(238, 241, 2); /* Sin bordes (si es un botón) */
     cursor: pointer; /* Cambia el cursor al pasar el ratón */
 }
 
@@ -127,7 +127,7 @@ header {
     width: 350px;
     height: 250px;
     min-height: 300px; /* Altura mínima */
-        max-height: 600px; /* Altura máxima */
+    max-height: 600px; /* Altura máxima */
     margin-left: 0px;
     margin-right: 0px;
     margin-bottom: 25px;
